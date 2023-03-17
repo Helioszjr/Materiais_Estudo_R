@@ -1,4 +1,3 @@
-# Materiais_Estudo_R
 # Materiais de estudo de R 
 
 A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e em português. 
