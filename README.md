@@ -3,8 +3,6 @@
 
 A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratuitos e em português. 
 
-Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https://github.com/beatrizmilz/materiais_estudo_R/blob/master/disciplinas.md).
-
 ## Materiais em Português
 
 ### - [Apresentações dos Meetups do R-Ladies São Paulo](https://github.com/rladies/meetup-presentations_sao-paulo/blob/master/README.md)
@@ -15,12 +13,7 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 
 *A Curso-R também oferece cursos presenciais: http://curso-r.com/
 
-### - Disciplina Introdução à Programação e Ferramentas Computacionais para as Ciências Sociais
-- Esse material é disponibilizado no GITHUB pelo Leonardo Barone. 
-- Material gratuito;
-- Link: https://github.com/leobarone/FLS6397_2018
-
-### - Disciplina CE083 - Estatística Computacional I
+### - Estatística Computacional I
 - Esse material é disponibilizado no GITHUB pelo  Fernando de Pol Mayer. 
 - Material gratuito;
 - Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
@@ -93,5 +86,3 @@ Caso tenha interesse em  disciplinas que utilizem R, [veja este documento](https
 ### Outros livros sobre R:
 - Biblioteca do R-Project, livros em diversas línguas: https://www.r-project.org/doc/bib/R-books.html
 
-## Em construção :)
-- Essa lista está em construção, se você conhece algum material interessante sinta-se a vontade para contribuir (mas lembre de colocar informações como: esse conteúdo é gratuito ou pago? em que idioma está disponível? etc).
