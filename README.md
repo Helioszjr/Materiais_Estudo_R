@@ -50,6 +50,7 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Autor: Garrett Grolemund
 - Link: https://rstudio-education.github.io/hopr/
 - Conteúdo: básico do R e RStudio, Pacotes, objetos, tipos de dados, funções, etc.
+- Link: http://rafalab.dfci.harvard.edu/pages/harvardx.html
 
 ### - Livro: R for Data Science
 - Livro disponibilizado gratuitamente em bookdown; 
