@@ -35,13 +35,15 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Ano: 2018
 - Link: https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r
 
-
 ### - Bookdown - Introdução a R para Visualização e Apresentação de Dados
 - Em português
 - Material disponibilizado gratuitamente
 - Ano: 2018
 - Autor: Sillas Gonzaga
 - Link: http://sillasgonzaga.com/material/curso_visualizacao/
+- Análise gráfica com uso do R
+- Link: https://docs.ufpr.br/~aanjos/CE231/web/apostila.html#x1-90001.2
+- Autor: Adilson dos Anjos
 
 ## Materiais em Inglês
 
