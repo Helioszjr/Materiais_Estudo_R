@@ -17,6 +17,11 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Material gratuito;
 - Link: http://leg.ufpr.br/~fernandomayer/aulas/ce083/
 
+### - Modelos lineares mistos
+- Autor: Mahayana C. Godoy
+- Livro: Introdução aos modelos lineares mistos para os estudos da linguagem
+- Link: https://mahayana.me/mlm/
+
 ### - Materiais disponibilizados por professores do Departamento de Estatística da UFPR
 - Material gratuito;
 - Mineraçao de texto: http://leg.ufpr.br/~walmes/ensino/mintex/
