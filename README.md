@@ -41,8 +41,8 @@ A ideia é facilitar o acesso à materiais de estudo de R, de preferência gratu
 - Ano: 2018
 - Autor: Sillas Gonzaga
 - Link: http://sillasgonzaga.com/material/curso_visualizacao/
-- Autor: Adilson dos Anjos
 - Análise gráfica com uso do R
+- Autor: Adilson dos Anjos
 - Link: https://docs.ufpr.br/~aanjos/CE231/web/apostila.html#x1-90001.2
 
 
